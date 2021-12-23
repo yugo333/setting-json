@@ -1,0 +1,70 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.eol": "\n",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": -1,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": true,
+    "breadcrumbs.enabled": true,
+    "editor.tabSize": 2,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontSize": 15,
+    "cSpell.userWords": [
+        "Bndg",
+        "Coord",
+        "Emnw",
+        "JJXP",
+        "SIZEATTENUATION",
+        "bndg",
+        "bridge",
+        "endif",
+        "filed",
+        "gltf",
+        "ifdef",
+        "js",
+        "k",
+        "leapjs",
+        "mrl",
+        "second",
+        "todos",
+        "u",
+        "v",
+        "v bndg mrl",
+        "web",
+        "zip"
+    ],
+    "launch": {},
+    "git.suggestSmartCommit": false,
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.editorAssociations": {
+        "*.fbx": "3dviewer.viewer",
+        "*.dae": "3dviewer.viewer",
+        "*.obj": "3dviewer.viewer",
+        "*.stl": "3dviewer.editor"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
